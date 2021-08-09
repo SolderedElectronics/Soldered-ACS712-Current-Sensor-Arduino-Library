@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.9.1"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>16x2 easyC LCD Library: Class Members - Functions</title>
+<title>ACS712 Current Sensor Arduino Library: Class Members - Functions</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -28,10 +28,10 @@
  <tr style="height: 56px;">
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">16x2 easyC LCD Library
+   <div id="projectname">ACS712 Current Sensor Arduino Library
    &#160;<span id="projectnumber">1.0.0</span>
    </div>
-   <div id="projectbrief">This is a library for the 16x2 easyC LCD Module</div>
+   <div id="projectbrief">This is a library for the ACS712 current sensor.</div>
   </td>
  </tr>
  </tbody>
@@ -87,15 +87,47 @@ $(document).ready(function(){initNavTree('functions_func.html',''); initResizabl
 
 <div class="contents">
 &#160;<ul>
+<li>_ACS712()
+: <a class="el" href="class___a_c_s712.html#a5b8afd2e0a30726cfc58854febb65547">_ACS712</a>
+</li>
+<li>ACS712()
+: <a class="el" href="class_a_c_s712.html#a6014de2102d68a14db78ec07c446b503">ACS712</a>
+</li>
+<li>autoMidPoint()
+: <a class="el" href="class___a_c_s712.html#a7042847adf2ef3ff23a98b0dbfee7258">_ACS712</a>
+</li>
 <li>begin()
 : <a class="el" href="class_easy_c.html#a1b5a82b8a59daea79de76e496457e176">EasyC</a>
+</li>
+<li>decMidPoint()
+: <a class="el" href="class___a_c_s712.html#ae43ed1ad241759a739ff12455b005c32">_ACS712</a>
 </li>
 <li>EasyC()
 : <a class="el" href="class_easy_c.html#a2ea672a225a32eab52c2b20733fd26bd">EasyC</a>
 </li>
+<li>getFormFactor()
+: <a class="el" href="class___a_c_s712.html#a45986c1b131617c22d1a430fd7fb7ca0">_ACS712</a>
+</li>
+<li>getMidPoint()
+: <a class="el" href="class___a_c_s712.html#af19a5c471d7e31e89525e3da0cb51254">_ACS712</a>
+</li>
+<li>getmVperAmp()
+: <a class="el" href="class___a_c_s712.html#aad96b5a8c3ce186e2f6fd62b076762e6">_ACS712</a>
+</li>
+<li>getNoisemV()
+: <a class="el" href="class___a_c_s712.html#a9560b26b2dd790170c7094941677236b">_ACS712</a>
+</li>
+<li>incMidPoint()
+: <a class="el" href="class___a_c_s712.html#aa85abe8d7be57672a6290f3fe8786c29">_ACS712</a>
+</li>
 <li>initializeNative()
 : <a class="el" href="class_easy_c.html#a48c8aa55d48ef0cc11047cab0735c998">EasyC</a>
-, <a class="el" href="class_sensor.html#adb537c76173019fddf84b2d89e6c6559">Sensor</a>
+</li>
+<li>mA_AC()
+: <a class="el" href="class___a_c_s712.html#ade16291993a0357fb1e576c09ad6b7cf">_ACS712</a>
+</li>
+<li>mA_DC()
+: <a class="el" href="class___a_c_s712.html#a203aede11ebfa2bba25017d9a39c0868">_ACS712</a>
 </li>
 <li>readData()
 : <a class="el" href="class_easy_c.html#a9a3d39be50b348768bc4b5dea3dae01a">EasyC</a>
@@ -109,8 +141,17 @@ $(document).ready(function(){initNavTree('functions_func.html',''); initResizabl
 <li>sendData()
 : <a class="el" href="class_easy_c.html#afe8aa014ae53cad3b0f3c42f59277195">EasyC</a>
 </li>
-<li>Sensor()
-: <a class="el" href="class_sensor.html#a2b8ea6b15267f6fa0e263f57a09f6b62">Sensor</a>
+<li>setFormFactor()
+: <a class="el" href="class___a_c_s712.html#a6862e1dd057ac1052e863a86497a8c96">_ACS712</a>
+</li>
+<li>setMidPoint()
+: <a class="el" href="class___a_c_s712.html#a0e4bbc1a0b300d959a971a02293d5868">_ACS712</a>
+</li>
+<li>setmVperAmp()
+: <a class="el" href="class___a_c_s712.html#a7d73194f06a1fbf9266a2108bb6dce4f">_ACS712</a>
+</li>
+<li>setNoisemV()
+: <a class="el" href="class___a_c_s712.html#a4538e2c900d31f01c7439ae9cc700a6c">_ACS712</a>
 </li>
 </ul>
 </div><!-- contents -->
@@ -120,7 +161,7 @@ $(document).ready(function(){initNavTree('functions_func.html',''); initResizabl
     <!-- id is needed for treeview function! -->
     <ul>
         <li class="footer">
-            Generated on Mon Aug 9 2021 05:53:30 for 16x2 easyC LCD Library by <a href="http://www.doxygen.org/index.html">
+            Generated on Mon Aug 9 2021 06:40:44 for ACS712 Current Sensor Arduino Library by <a href="http://www.doxygen.org/index.html">
                 <img class="footer" src="doxygen.png" alt="doxygen"
                     onerror="this.onerror=null;this.src='doxygen.svg';" /></a> 1.9.1.
             Dark theme by <a href="http://majerle.eu" target="_new">Tilen Majerle</a>. All rights reserved.

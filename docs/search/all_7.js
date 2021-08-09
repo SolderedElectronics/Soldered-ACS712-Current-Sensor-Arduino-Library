@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['pin_13',['pin',['../class_sensor.html#a0efecf34431610766469857f25e113da',1,'Sensor']]]
+  ['ma_5fac_29',['mA_AC',['../class___a_c_s712.html#ade16291993a0357fb1e576c09ad6b7cf',1,'_ACS712']]],
+  ['ma_5fdc_30',['mA_DC',['../class___a_c_s712.html#a203aede11ebfa2bba25017d9a39c0868',1,'_ACS712']]]
 ];

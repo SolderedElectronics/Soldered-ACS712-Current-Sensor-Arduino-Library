@@ -1,4 +1,7 @@
 var searchData=
 [
-  ['initializenative_10',['initializeNative',['../class_sensor.html#adb537c76173019fddf84b2d89e6c6559',1,'Sensor::initializeNative()'],['../class_easy_c.html#a48c8aa55d48ef0cc11047cab0735c998',1,'EasyC::initializeNative()']]]
+  ['getformfactor_23',['getFormFactor',['../class___a_c_s712.html#a45986c1b131617c22d1a430fd7fb7ca0',1,'_ACS712']]],
+  ['getmidpoint_24',['getMidPoint',['../class___a_c_s712.html#af19a5c471d7e31e89525e3da0cb51254',1,'_ACS712']]],
+  ['getmvperamp_25',['getmVperAmp',['../class___a_c_s712.html#aad96b5a8c3ce186e2f6fd62b076762e6',1,'_ACS712']]],
+  ['getnoisemv_26',['getNoisemV',['../class___a_c_s712.html#a9560b26b2dd790170c7094941677236b',1,'_ACS712']]]
 ];
