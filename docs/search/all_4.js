@@ -1,7 +1,4 @@
 var searchData=
 [
-  ['easyc_19',['EasyC',['../class_easy_c.html',1,'EasyC'],['../class_easy_c.html#a2ea672a225a32eab52c2b20733fd26bd',1,'EasyC::EasyC()']]],
-  ['easyc_2ecpp_20',['easyC.cpp',['../easy_c_8cpp.html',1,'']]],
-  ['easyc_2eh_21',['easyC.h',['../easy_c_8h.html',1,'']]],
-  ['err_22',['err',['../class_easy_c.html#a8b880d5daf116adde0cc436f1e4c0853',1,'EasyC']]]
+  ['incmidpoint_19',['incMidPoint',['../class___a_c_s712.html#aa85abe8d7be57672a6290f3fe8786c29',1,'_ACS712']]]
 ];

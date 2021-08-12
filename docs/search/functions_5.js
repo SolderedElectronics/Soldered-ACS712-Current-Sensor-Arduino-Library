@@ -1,7 +1,5 @@
 var searchData=
 [
-  ['getformfactor_59',['getFormFactor',['../class___a_c_s712.html#a45986c1b131617c22d1a430fd7fb7ca0',1,'_ACS712']]],
-  ['getmidpoint_60',['getMidPoint',['../class___a_c_s712.html#af19a5c471d7e31e89525e3da0cb51254',1,'_ACS712']]],
-  ['getmvperamp_61',['getmVperAmp',['../class___a_c_s712.html#aad96b5a8c3ce186e2f6fd62b076762e6',1,'_ACS712']]],
-  ['getnoisemv_62',['getNoisemV',['../class___a_c_s712.html#a9560b26b2dd790170c7094941677236b',1,'_ACS712']]]
+  ['ma_5fac_45',['mA_AC',['../class___a_c_s712.html#ade16291993a0357fb1e576c09ad6b7cf',1,'_ACS712']]],
+  ['ma_5fdc_46',['mA_DC',['../class___a_c_s712.html#a203aede11ebfa2bba25017d9a39c0868',1,'_ACS712']]]
 ];

@@ -7,9 +7,5 @@ var files_dup =
     [ "ACS712.cpp", "_a_c_s712_8cpp.html", null ],
     [ "ACS712.h", "_a_c_s712_8h.html", [
       [ "_ACS712", "class___a_c_s712.html", "class___a_c_s712" ]
-    ] ],
-    [ "easyC.cpp", "easy_c_8cpp.html", null ],
-    [ "easyC.h", "easy_c_8h.html", [
-      [ "EasyC", "class_easy_c.html", "class_easy_c" ]
     ] ]
 ];

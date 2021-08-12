@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['easyc_58',['EasyC',['../class_easy_c.html#a2ea672a225a32eab52c2b20733fd26bd',1,'EasyC']]]
+  ['incmidpoint_44',['incMidPoint',['../class___a_c_s712.html#aa85abe8d7be57672a6290f3fe8786c29',1,'_ACS712']]]
 ];
