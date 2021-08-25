@@ -4,7 +4,7 @@
 // PURPOSE: demo to set midpoint and mVperAmpere for class.
 //    DATE: 2020-03-18
 //
-// Modified by: Soldered for use with https://solde.red/[_sku]
+// Modified by: Soldered for use with https://solde.red/333073
 
 #include "ACS712-SOLDERED.h"
 
