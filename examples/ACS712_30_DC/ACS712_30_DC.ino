@@ -1,7 +1,7 @@
 /**
  **************************************************
  *
- * @file        ACS712_20_DC.ino
+ * @file        ACS712_30_DC.ino
  * @brief       Example for measure AC current
  *              https://github.com/e-radionicacom/Soldered-ACS712-Current-Sensor-Arduino-Library
  *              
@@ -9,14 +9,14 @@
  *
  *
  * @authors    Rob Tillaart
- * Modified by: Soldered for use with https://solde.red/333147
+ * Modified by: Soldered for use with https://solde.red/333073
  *
  ***************************************************/
-
+ 
 #include "ACS712-SOLDERED.h"
 
 // Declare a ACS712 object
-ACS712 ACS(A0, ACS712_20A);
+ACS712 ACS(A0, ACS712_30A);
 
 void setup()
 {
