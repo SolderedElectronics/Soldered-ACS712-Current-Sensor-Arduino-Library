@@ -1,15 +1,22 @@
-//
-//    FILE: ACS712_20_AC_DEMO.ino
-//  AUTHOR: Rob Tillaart
-// PURPOSE: demo to set midpoint and mVperAmpere for class.
-//    DATE: 2020-03-18
-//
-// Modified by: Soldered for use with https://solde.red/333073
+/**
+ **************************************************
+ *
+ * @file        ACS712_20_AC_DEMO.ino
+ * @brief       Example for measure AC current
+ *              https://github.com/e-radionicacom/Soldered-ACS712-Current-Sensor-Arduino-Library
+ *              
+ *
+ *
+ *
+ * @authors    Rob Tillaart
+ * Modified by: Soldered for use with https://solde.red/333147
+ *
+ ***************************************************/
 
 #include "ACS712-SOLDERED.h"
 
 // Declare a ACS712 object
-ACS712 ACS(A0, ACS712_5A);
+ACS712 ACS(A0, ACS712_20A);
 
 void setup()
 {
