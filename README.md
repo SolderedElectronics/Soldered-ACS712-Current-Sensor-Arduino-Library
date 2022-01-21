@@ -5,7 +5,9 @@
 
 | ![Product name](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
 | :---------------------------------------------------------------------------------------------: |
-| [ACS712 Soldered Board](https://www.solde.red/SKU)                                                            |
+| [Current sensor 30A ACS712 breakout](https://www.solde.red/333073)                                                            |
+| [Current sensor 5A ACS712 breakout](https://www.solde.red/333146)                                                            |
+| [Current sensor 20A ACS712 breakout](https://www.solde.red/333147)                                                            |
 
 ACS712 is a current sensing IC availabe in 5A, 20A and 30A variants.
 
