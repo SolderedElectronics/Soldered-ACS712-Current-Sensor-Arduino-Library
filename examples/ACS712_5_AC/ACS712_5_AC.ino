@@ -12,6 +12,14 @@
  * Modified by: Soldered for use with https://solde.red/333146
  *
  ***************************************************/
+
+//Connecting diagram
+//Breakout      Arduino
+//|-------------|
+//OUT-----------A0
+//GND-----------GND
+//VCC-----------5V
+
 #include "ACS712-SOLDERED.h"
 
 // Declare a ACS712 object
