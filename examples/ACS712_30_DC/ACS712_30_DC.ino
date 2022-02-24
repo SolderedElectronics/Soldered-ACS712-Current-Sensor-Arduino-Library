@@ -13,6 +13,14 @@
  *
  ***************************************************/
  
+
+//Connecting diagram
+//Breakout      Arduino
+//|-------------|
+//OUT-----------A0
+//GND-----------GND
+//VCC-----------5V
+
 #include "ACS712-SOLDERED.h"
 
 // Declare a ACS712 object
