@@ -1,4 +1,4 @@
-# ACS712 Soldered Board Arduino library
+# Current sensor ACS712 Soldered Board Arduino library
 
 [![Compile Sketches](http://github-actions.40ants.com/e-radionicacom/Soldered-ACS712-Current-Sensor-Arduino-Library/matrix.svg?branch=dev&only=Compile%20Sketches)](https://github.com/e-radionicacom/Soldered-ACS712-Current-Sensor-Arduino-Library/actions/workflows/compile_test.yml)
 [![Make docs and publish to GitHub Pages](https://github.com/e-radionicacom/Soldered-ACS712-Current-Sensor-Arduino-Library/actions/workflows/make_docs.yml/badge.svg?branch=dev)](https://github.com/e-radionicacom/Soldered-ACS712-Current-Sensor-Arduino-Library/actions/workflows/make_docs.yml)
@@ -18,13 +18,13 @@ ACS712 is a current sensing IC availabe in 5A, 20A and 30A variants.
 - ***other*** - *keywords* file highlights function words in your IDE, *library.properties* enables implementation with Arduino Library Manager.
 
 ### Hardware design
-You can find hardware design for this board in ACS712 Soldered Board hardware repository
+You can find hardware design for this board in Current sensor ACS712 Soldered Board hardware repository
 
 ### Documentation
 
 Access Arduino library documentation [here](https://e-radionicacom.github.io/Soldered-ACS712-Current-Sensor-Arduino-Library/).
 
-- Tutorial for using the ACS712 Soldered Board board
+- Tutorial for using the Current sensor ACS712 Soldered Board board
 - Installing an Arduino library
 
 ### About Soldered
