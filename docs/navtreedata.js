@@ -25,7 +25,9 @@
 var NAVTREE =
 [
   [ "ACS712 Current Sensor Arduino Library", "index.html", [
-    [ "Current sensor ACS712 Soldered Board Arduino library", "index.html", null ],
+    [ "Current sensor ACS712 breakout Arduino library", "index.html", [
+      [ "Have fun!", "index.html#autotoc_md8", null ]
+    ] ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
