@@ -23,7 +23,7 @@
 
 #include "ACS712-SOLDERED.h"
 
-// Declare a ACS712 object
+// Declare an ACS712 object
 ACS712 ACS(A0, ACS712_30A);
 
 void setup()
